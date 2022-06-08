@@ -1,0 +1,1 @@
+Anotações e pequenos projetos de código dos meus estudos de Callback, Promise e a função setTimeout
