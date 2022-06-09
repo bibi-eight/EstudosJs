@@ -1,10 +1,3 @@
-/**
- * Promise
- * a promesssa de que algo irá acontecer
- * pode dar certo ou errado,
- * mas vai acontecer
- */
-
 let aceitar = true //controle
 
 console.log('pedir uber');
