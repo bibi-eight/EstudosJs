@@ -20,7 +20,7 @@
 ## APIs
 
 *Podemos pensar numa api como um modo de comunicação. Pense num restaurante.*
- *cliente - front-end - pede algo*
+ *cliente = front-end - pede algo*
  *cozinha = back-end - prepara esse algo*
  *garçom = api - leva de um para o outro*
 
